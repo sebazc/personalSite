@@ -1,0 +1,16 @@
+.myStyle {
+    background-color: blue;
+}
+
+.horizontalLine {
+    /* width: 60%; */
+    border: 1px solid;
+    /* transform: translateX(30%); */
+    /* margin-left: 20%; */
+    /* 100 = 20 * 3 + 60 */
+}
+
+.allstuff {
+    height: 50px;
+    margin-top: -50px;
+}
